@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"__functional_03": "c",
+		"functional": "c",
+		"memory": "c",
+		"utility": "c",
+		"algorithm": "c",
+		"chrono": "c",
+		"limits": "c",
+		"ratio": "c",
+		"ft_push_swap.h": "c",
+		"__locale": "c",
+		"array": "c",
+		"iterator": "c",
+		"string": "c",
+		"string_view": "c",
+		"vector": "c"
+	}
+}

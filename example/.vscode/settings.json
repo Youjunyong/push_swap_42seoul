@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"algorithm": "cpp",
+		"memory_resource": "cpp",
+		"functional": "cpp",
+		"iterator": "cpp",
+		"locale": "cpp"
+	}
+}
